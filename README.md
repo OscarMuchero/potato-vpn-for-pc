@@ -1,5 +1,7 @@
 # potato-vpn-for-pc
 
+<img src="https://github.com/OscarMuchero/potato-vpn-for-pc/blob/main/p.png"/>
+
 *PotatoVPN is a cross-platform VPN application created by FASTPOTATO PTE. LTD. This desktop protection and privacy tool have an easy-to-use interface that allows you to use the internet safely while still protecting your privacy. It also allows you to bypass restrictions to access geographically blocked content online*
 
 ___
@@ -18,3 +20,4 @@ PotatoVPN, like other providers like SuperVPN and Unlimited VPN, offers services
 
 +  Overall, PotatoVPN is a viable option to explore if you are looking for a basic and user-friendly VPN service for personal use
 
+<img src="https://github.com/OscarMuchero/potato-vpn-for-pc/blob/main/dd.png"/>
